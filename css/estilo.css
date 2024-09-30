@@ -26,3 +26,34 @@ margin: auto;
  display: flex;
  align-items: center; 
 }
+.header--search form {
+  display: flex;
+}
+.header--search input {
+  font-size: 16px;
+  padding: 8px 15px;
+  border: 1px solid #999999;
+  outline: 0;
+  width: 100%;
+  max-width: 250px;
+}
+
+.header--search button {
+  border: 0;
+  background: transparent;
+  margin-left: -30px;
+  cursor: pointer;
+}
+.header--search img {
+  width: 16px;
+  height: 16px;
+}
+
+
+
+
+
+
+
+
+
