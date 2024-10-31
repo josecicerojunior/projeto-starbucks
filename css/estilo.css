@@ -8,9 +8,9 @@ background-color:#117050;
 height:10px;
 }
 
-.container{
-max-width: 1140px;
-margin: auto;
+.container {
+  max-width: 1140px;
+  margin: auto;
 }
 .header--area{  
   display: flex;
@@ -77,5 +77,13 @@ margin: auto;
     margin-right: 40px;
 }
 
+h1 {
+  font-family: 'Oswald';
+  font-size: 90px;
+  font-weight: bold;
+  line-height: 100px;
+  margin: 0;
+  margin-bottom: 30px;
+}
 
 
